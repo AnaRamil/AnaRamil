@@ -1,19 +1,12 @@
-<div align="center"; background="gray" >
-<h1>Hi! My name is Ana Paula Ramil</h1>
+
+<h1 align="center">Hi! I'm Ana Paula Ramil</h1>
 
 ###
-
-I have a degree in Information Systems with a specialization in Information Security.
-<br/>
-I'm an IT professional, a systems analyst, and I'm transitioning my career to Full-Stack development.
-<br/>
-</div>
-
 <h2 align="center">About me</h2>
 
-<p align="center">✨ I'm an IT professional, a systems analyst, and I'm transitioning my career to Full-Stack development.</p>
-
-###
+<p align="center">✨ I'm an IT professional, a systems analyst, and I'm transitioning my career to Full-Stack development.</p><br/>
+  ✨I have a degree in Information Systems with a specialization in Information Security. 
+</div>
 
 <h2 align="center">📚 I'm currently that I develop ...</h2>
 
@@ -41,10 +34,12 @@ I'm an IT professional, a systems analyst, and I'm transitioning my career to Fu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="20" alt="amazonwebservices logo"  />
 </div>
+</br>
+<p align="center">Full-Stack Web DevOps student at @Rocketseat .</p>
 
 ###
 
-<p align="center">🎲 Tools that I have experience with...</p>
+<h2 align="center">🎲 Tools that I have experience with...</h2>
 
 ###
 
@@ -53,6 +48,4 @@ I'm an IT professional, a systems analyst, and I'm transitioning my career to Fu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="20" alt="photoshop logo"  />
 </div>
-
-<p align="center">Training for Full-Stack Web DevOps from @Rocketseat .</p>
 
