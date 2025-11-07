@@ -2,15 +2,15 @@
 <h1 align="center">Hi! I'm Ana Paula Ramil</h1>
 
 ###
-<h2 align="center">About me</h2>
+<h3 align="center">About me</h3>
 
-<p align="center">✨ I'm an IT professional, a systems analyst, and I'm transitioning my career to Full-Stack development.</p><br/>
-  ✨I have a degree in Information Systems with a specialization in Information Security. 
+<p align="center">✨ I'm an IT professional, a systems analyst, and I'm transitioning my career to Full-Stack development.</p>
+<p align="center">✨I have a degree in Information Systems with a specialization in Information Security. </p>
 </div>
 
 <h2 align="center">📚 I'm currently that I develop ...</h2>
 
-<p align="center">| CSS | HTML | JAVASCRIPT | JAVA | PYTHON | REACT | NEXTJS | TAILWINDCSS | TYPESCRIPT | NPM | AMAZONSERVICES |</p>
+<p align="center">| CSS | HTML | JAVASCRIPT | JAVA | PYTHON | REACT | NEXTJS | NODEJS | TAILWINDCSS | TYPESCRIPT | NPM | AMAZONSERVICES |</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css logo"  />
   <img width="12" />
@@ -26,16 +26,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="20" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="20" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" alt="amazonwebservices logo" height="20"  />
 </div>
 </br>
-<p align="center">Full-Stack Web DevOps student at @Rocketseat .</p>
+<p align="center"> Full-Stack Web DevOps student at @Rocketseat .</p>
 
 ###
 
@@ -47,5 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="20" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="20" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="20" alt="inkscape logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
 </div>
 
+###
