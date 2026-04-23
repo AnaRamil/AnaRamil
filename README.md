@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi! I'm Ana Paula Ramil</h1>
 
-###
 <h3 align="center">About me</h3>
 
 <p align="center">✨ I'm an IT professional, a systems analyst, and I'm transitioning my career to Full-Stack development.</p>
@@ -9,7 +8,7 @@
 <p align="center"> 🎯 Full-Stack Web DevOps student at @Rocketseat .</p>
 <p align="center">🎯 Goals: Project "GlowUp"... </p>
 
-###
+
 <h2 align="center">📚 I'm currently learning...</h2>
 
 <h3 align="center">🎲 Languages: </h3>
@@ -29,7 +28,6 @@
   
 </div>
 
-###
 <h2 align="center">🎲 Tools: </h2>
 
 <p align="center">| NODEJS | INTELLIJ | MONGODB | DOCKER |AMAZOMSERVICES |</p>
@@ -48,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=aws" alt="amazonwebservices logo" height="20"  />
 </div>
 
-###
+
 <h2 align="center">✨ Fun fact: ...experience in graphic design</h2>
 
 <div align="center">
@@ -61,4 +59,4 @@
 </div>
 </br>
 
-###
+
