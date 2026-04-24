@@ -14,7 +14,7 @@
 
 <h2 align="center">📚 I'm currently learning...</h2>
 
-<h3 align="center">🎲 Languages: 
+<h3 align="center">🎲 Languages: </h3>
 
 <p align="center">| CSS | HTML5 | JAVASCRIPT | JAVA | PYTHON |</p>
 
@@ -33,9 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
 </div>
 
-<h3 align="center">🎲 Tools: 
+<h3 align="center">🎲 Tools: </h3>
 
 <p align="center">| NODEJS | INTELLIJ | MONGODB | DOCKER |AMAZOMSERVICES |</p>
+
+<h3>
 
 <div align="center">
   <img width="12" />
@@ -52,21 +54,15 @@
 
 </h3>
 
-<h3 align="center">✨ Fun fact: ...experience in graphic design:
+<h3 align="center">✨ Fun fact: ...experience in graphic design: </h3>
 
 <div align="center">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="20" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="20" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
+  <img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="20" alt="illustrator logo"  />  
+  <img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="20" alt="photoshop logo"  />  
+  <img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
 </div>
 
-</h3>
-
-<h3>
-  
+<h3>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaRamil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </p>
