@@ -62,15 +62,6 @@
   <img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
 </div>
 
-
-<!--p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaRamil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</p>
-
-<!--p align="center">✨
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnaRamil.AnaRamil&"  /> ✨
-</p-->
-
 </h3>
 
 
