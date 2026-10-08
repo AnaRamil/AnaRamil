@@ -3,7 +3,7 @@
   <img height="300" src="https://github.com/AnaRamil/ARdobug/blob/main/Captura%20de%20tela%202026-04-23%20211444.png"  />
 </div>
 
-<h1 align="center">Hi! I'm Ana Paula Ramil</h1>
+<h1 align="center">Hi! I'm AnaRamil</h1>
 
 <h3 align="center">About me</h3>
 
