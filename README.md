@@ -16,11 +16,11 @@
 
 <h2>📚 Technical Skills </h2>
 
-  IT Support: Level 1 and Level 2 (inventory, access control, security policies, local network and IoT support)
+  IT Support:  Level 1 and Level 2 (inventory, access control, security policies, local network support, and IoT).
 
   Databases & SQL, Data Analysis.
 
-  Services Offered: | Web Development | Web Design | IT Strategy | IT Service Management | Computer Networks |
+  Services Offered: Software Development | Automation | Artificial Intelligence Systems | Back-end Development | IT Service Management | Computer Networks |
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <h2> 🎲 Programming Languages </h2>
   
-  <p>| CSS | HTML5 | PYTHON | JAVA | JAVASCRIPT | SOLIDITY |</p>
+  <p>| HTML5 | CSS | PYTHON | JAVA | JAVASCRIPT | FLUTTER | SOLIDITY |</p>
 
   <div>
     <img width="12" />
@@ -41,6 +41,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20" alt="flutter logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="20" alt="solidity logo"  />
   </div>
