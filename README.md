@@ -3,28 +3,14 @@
   <img height="300" src="https://github.com/AnaRamil/ARdobug/blob/main/Captura%20de%20tela%202026-04-23%20211444.png"  />
 </div>
 
-<h1 align="center">Hi! I'm AnaRamil</h1>
-
-<h3 align="center">About me</h3>
-
-<p> ✨ IT professional with a degree in Information Systems and a specialization degree in Information Security from Anhanguera Educational College.</p>
-<p> 😍 Passionate about design and currently transitioning to Full Stack Development.</p>
-<p> 🎯 Currently enrolled in Rocketseat's Full Stack.</p>
-<p> 🎯 Goals: Project "GlowUp"... </p>
-
----
+<h1>Hi! I'm AnaRamil</h1>
 
 <h2>📚 Technical Skills </h2>
+  <p> ✨ IT professional with a degree in Information Systems and a specialization degree in Information Security from Anhanguera Educational College.
+      IT Support:  Level 1 and Level 2 (inventory, access control, security policies, local network support, and IoT). Currently transitioning to Full Stack Development.</p>
 
-  IT Support:  Level 1 and Level 2 (inventory, access control, security policies, local network support, and IoT).
-
-  Databases & SQL, Data Analysis.
-
-  Services Offered: Software Development | Automation | Artificial Intelligence Systems | Back-end Development | IT Service Management | Computer Networks |
-
-</div>
-
----
+ <h2> Services Offered: </h2> 
+   <p> | Full Stack Development | APIs | Automation | AI | IT Service Management | Databases & SQL | Data Analysis |</p>
 
 <h2> 🎲 Programming Languages </h2>
   
@@ -54,21 +40,30 @@
 
   <h3> ✨ Key Technical Proficiencies </h3>
   
-    | HTML5 | CSS | JavaScript | Java | Python | SQL | Node.js | Git & GitHub | Solidity | Remix | Blockchain |
-    | Figma | UI/UX | Web Development | SaaS | APIs & Web Services | Databases | Artificial Intelligence |
-    | Process Engineering | Generative AI | AI Agents with n8n | Automation |
+    Linguagens:  HTML5 | CSS | JavaScript | Java | Python | SQL | Rust |
+    Frameworks: React.js | Vue.js | Next.js | Node.js | Vite | Express | Fastify | Redux | Node.js | SpringBoot | Solidity | Remix | WEB3 |
+    Estilização e UI: Sass | Tailwind CSS| Styled Components| Bootstrap | Material UI | 
+    APIs e Integrações: APIs & Web Services | Databases | Artificial Intelligence | Generative AI | AI Agents | Automation | LLMs |
+    Bancos de Dados:  PostgreSQL| MySQL | MariaDB | SQLite | MongoDB | Supabase |
+    CI/CD: GitHub Actions | Git |  Docker | Kubernetes | Vercel | 
   
   </h3>
 
----
+<h2>✨ Projects under development: </h2>
 
-<h2>✨ Fun fact: ...experience in graphic design: </h2>
+    🎯 Goals: Project "GlowUp"... 
+    
 
-  <div>
-    <img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="20" alt="illustrator logo"  />  
-    <img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="20" alt="photoshop logo"  />  
-    <img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
-  </div>
+  <h2> Theses and Articles - Academic research and case studies </h2>
+
+  <p> Research and Study on the Usability of Mobile Applications - Year: 2013 | Institution: Anhanguera
+      Analysis of Anhanguera services on mobile devices. Study focused on user experience (UX) and accessibility in mobile applications, proposing improvements to the interface.
+  </p>
+  
+ <h2> Read Full Article : </h2>
+ 
+ <p> Research and Study on the Usability of Mobile Applications - https://github.com/AnaRamil/AnaRamil/blob/3c881b60a691c7683fbfba1b1acaa1b6eb9e8440/Usabilidade%20para%20dispositivos%20m%C3%B3veis%20-%20Ana%20Paula%20-%2003-12-2013.jpg
+</p>
 
 ---
 
